@@ -783,6 +783,9 @@ margin on the iframe, cause it breaks stuff. */
   margin: 0.666666666666667em 0 0.333333333333333em;
   color: #a9b0b7;
 }
+.post-meta .updated {
+  display: none;
+}
 .user-meta {
   position: relative;
   padding: 0.3rem 40px 0 100px;
