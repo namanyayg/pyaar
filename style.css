@@ -483,7 +483,7 @@ pre {
   border: 1px solid #e4eef8;
   width: 100%;
   padding: 1em;
-  font-family: Inconsolata, monospace, sans-serif;
+  font-family: Inconsolata, Consolas, Monaco, 'Courier New', Courier, 'Lucida Sans Typewriter', 'Lucida Typewriter', monospace;
   font-size: 0.625em;
   white-space: pre;
   overflow: auto;
